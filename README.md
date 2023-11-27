@@ -1,6 +1,7 @@
 # Unit3FinalProject
 
 Data Source: https://healthdata.gov/dataset/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/6xf2-c3ie
+The data comes from the healthdata.gov website, and was published by the	U.S. Department of Health & Human Services.
 
 This repository provides code describing the process and reason for subsetting the "COVID-19 Reported Patient Impact and Hospital Capacity by State" dataset for specialized analysis. The purpose of the original dataset is to provide information about COVID-19 in hospitals on a state-wide level. So, it contains information such as: the number of COVID-19 patients, the number of available patient beds, the number of hospitals in the given state expecting a staffing shortage within the week, and more. Also, this information is updated every friday to give new insights into the hospital's statuses. 
 
