@@ -9,6 +9,6 @@ The subsetted dataset is useful because while the original dataset has a lot of 
 
 Users can get started with this repository by first familiarizing themselves with the data, either from the link in the readme, or the link in the code. In doing this, users can understand the meaning of the data, making it easier to follow along and understand the coding process and the reason behind it. Then, users can inspect my written code from the "Unit3Final_MostafaMamoun.ipynb" file. They should first read through the code and the comments to make sure they understand the process, and then they can open it in their colab and try it out for themselves. 
 
+This repository was inspired by a school project at the University of North Carolina Project in the class English 105. 
 
-*Prof. Gotzler Made me do it*
 # Mostafa Mamoun
