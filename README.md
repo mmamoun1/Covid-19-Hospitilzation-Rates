@@ -9,7 +9,7 @@ This repository provides code describing the process and reason for subsetting t
 
 # Why this is Useful
 
-The subsetted dataset is useful because while the original dataset has a lot of valuable information, the amount of information can make it hard to find the most pressing issues. So, the new dataset contains the 10 states with the most anticipated critical staffing shortages within the week, which changes with the update of the original set. This way, focus can be put on those states who require the most assistance that week, and future analysis can also be done on that state's hospital information to find out why these shortages occurred and predict them occurring again. What makes this so useful is that 
+The subsetted dataset is useful because while the original dataset has a lot of valuable information, the amount of information can make it hard to find the most pressing issues. So, the new dataset contains the 10 states with the most anticipated critical staffing shortages within the week, which changes with the update of the original set. This way, focus can be put on those states who require the most assistance that week, and future analysis can also be done on that state's hospital information to find out why these shortages occurred and predict them occurring again. What makes this so useful is that you, the viewer, can help pick up on important trends that can prevent mass hospitilizations in the future. 
 
 # What is Provided
  
