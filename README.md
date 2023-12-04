@@ -5,7 +5,7 @@ The data comes from the healthdata.gov website, and was published by the	U.S. De
 
 # About
 
-This repository provides code describing the process and reason for subsetting the "COVID-19 Reported Patient Impact and Hospital Capacity by State" dataset for specialized analysis. The purpose of the original dataset is to provide information about COVID-19 in hospitals on a state-wide level. So, it contains information such as: the number of COVID-19 patients, the number of available patient beds, the number of hospitals in the given state expecting a staffing shortage within the week, and more. Also, this information is updated every friday to give new insights into the hospital's statuses. This reporsitory 
+This repository provides code describing the process and reason for subsetting the "COVID-19 Reported Patient Impact and Hospital Capacity by State" dataset for specialized analysis. The purpose of the original dataset is to provide information about COVID-19 in hospitals on a state-wide level. So, it contains information such as: the number of COVID-19 patients, the number of available patient beds, the number of hospitals in the given state expecting a staffing shortage within the week, and more. Also, this information is updated every friday to give new insights into the hospital's statuses. 
 
 # Why this is Useful
 
@@ -13,7 +13,7 @@ The subsetted dataset is useful because while the original dataset has a lot of 
 
 # What is Provided
  
-Users can get started with this repository by first familiarizing themselves with the data, either from the link in the readme, or the link in the code. In doing this, users can understand the meaning of the data, making it easier to follow along and understand the coding process and the reason behind it. Then, users can inspect my written code from the "Unit3Final_MostafaMamoun.ipynb" file. They should first read through the code and the comments to make sure they understand the process, and then they can open it in their colab and try it out for themselves. 
+Users can get started with this repository by first familiarizing themselves with the data, either from the link in the readme, or the link in the code. In doing this, users can understand the meaning of the data, making it easier to follow along and understand the coding process and the reason behind it. Then, users can inspect the written code from the "Unit3Final_MostafaMamoun.ipynb" file. They should first read through the code and the comments to make sure they understand the process, and then they can open it in their colab and try it out for themselves. 
 
 # Contributors
 
